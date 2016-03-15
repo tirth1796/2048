@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TRC 2048</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="options">
+        <item>3x3</item>
+        <item>4x4</item>
+        <item>6x6</item>
+        <item>8x8</item>
+        <item>Settings</item>
+    </string-array>
+</resources>
